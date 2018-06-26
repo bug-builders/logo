@@ -1,0 +1,5 @@
+{
+  "eslint.enable": false,
+  "git.ignoreLimitWarning": true,
+  "editor.tabSize": 2
+}
